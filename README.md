@@ -1,4 +1,4 @@
-## ATM
+# ATM
 A simulation of automated teller machine (ATM)
 
 Provided Services:
@@ -10,7 +10,7 @@ Provided Services:
 
 - Pay bills
 
-# How to Use?
+## How to Use?
 First, you have to login to your bank account using ID and PIN
 
 After 3 wrong attempts, you have to wait 1 minute to try again.
